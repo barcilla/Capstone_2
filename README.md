@@ -25,7 +25,7 @@ Data is coming from Data for Everyone (https://www.figure-eight.com/data-for-eve
 
 ## Results
 
-Logistic Regression model performed the best along with TfidfVectorizer. I was able to produce a model that has an accuracy score of about 80% and a f1 score of 76%. 
+Logistic Regression model performed the best along with TfidfVectorizer. I was able to produce a model that has an accuracy score of about 80% and a f1 score of 0.76
 
 
 ## Files
