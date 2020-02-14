@@ -35,3 +35,5 @@ Tweet Classifier: Detecting Disasters.ipynb : This contains the code for this pr
 Tweet Classifier_ Detecting Disasters Slide Deck.pdf: These are report slides with basic information about the project. If you want more detail into the thinking behind the process, please read Tweet Classifer_ Detecting Disasters Final.pdf
 
 Tweet Classifer_ Detecting Disasters Final.pdf: Detailed approach and analysis to this problem.
+
+Tweet Classifer_ Detecting Disasters Milestone1.pdf: A midpoint report before machine learning was used. Everything in this file is also included in Tweet Classifer_ Detecting Disasters Final.pdf file.
