@@ -32,7 +32,7 @@ Logistic Regression model performed the best along with TfidfVectorizer. I was a
 
 Tweet Classifier: Detecting Disasters.ipynb : This contains the code for this project. From importing the data, to cleaning, to machine learning. All of this projects code is in this file.
 
-Tweet Classifier_ Detecting Disasters Slide Deck.pdf: These are report slides with basic information about the project. If you want more detail into the thinking behind the process, please read Tweet Classifer_ Detecting Disasters Final.pdf
+Tweet Classifier_ Detecting Disasters Slide Deck Final.pdf: These are report slides with basic information about the project. If you want more detail into the thinking behind the process, please read Tweet Classifer_ Detecting Disasters Final.pdf
 
 Tweet Classifer_ Detecting Disasters Final.pdf: Detailed approach and analysis to this problem.
 
